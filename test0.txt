@@ -1,0 +1,5 @@
+﻿name,value
+Asia,19912018
+Africa,20501982
+Europe,20679786
+Americas,21354481
